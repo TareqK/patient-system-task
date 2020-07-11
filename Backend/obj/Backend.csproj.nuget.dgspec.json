@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/tareq/Code/innotech-task/Backend/Backend.csproj": {}
+    "/home/tareq/Code/patient-system-task/Backend/Backend.csproj": {}
   },
   "projects": {
-    "/home/tareq/Code/innotech-task/Backend/Backend.csproj": {
+    "/home/tareq/Code/patient-system-task/Backend/Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/tareq/Code/innotech-task/Backend/Backend.csproj",
+        "projectUniqueName": "/home/tareq/Code/patient-system-task/Backend/Backend.csproj",
         "projectName": "Backend",
-        "projectPath": "/home/tareq/Code/innotech-task/Backend/Backend.csproj",
+        "projectPath": "/home/tareq/Code/patient-system-task/Backend/Backend.csproj",
         "packagesPath": "/home/tareq/.nuget/packages/",
-        "outputPath": "/home/tareq/Code/innotech-task/Backend/obj/",
+        "outputPath": "/home/tareq/Code/patient-system-task/Backend/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/tareq/.nuget/NuGet/NuGet.Config"

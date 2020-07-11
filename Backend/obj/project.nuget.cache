@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6RTa4BR2jjol/E0qZjyaNivJ+AyY1oPTJUye7+0hy1Sm2GcUaOS1lIb2vwickonSMJcjNmtWYBYgW3SGMbqTpw==",
+  "dgSpecHash": "yHLdch0LImjLoa+fT4uXkk0b7i/qNwpXu8f2mZXbPqxs26Et2n4pHrTYxcGGnCpIpiu6WbowGoqnsEasuzUoEQ==",
   "success": true,
-  "projectFilePath": "/home/tareq/Code/innotech-task/Backend/Backend.csproj",
+  "projectFilePath": "/home/tareq/Code/patient-system-task/Backend/Backend.csproj",
   "expectedPackageFiles": [
     "/home/tareq/.nuget/packages/microsoft.aspnetcore.authentication/2.2.0/microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "/home/tareq/.nuget/packages/microsoft.aspnetcore.authentication.abstractions/2.2.0/microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
